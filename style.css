@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#HTML-article {
+   width: 600px;
+   margin: auto;
+    font-family: sans-serif;
+    border-top: 7px solid #09e0ab;
+    border-color: rgb(9, 224, 171);
+} 
+
+.Basic-div {
+    position: relative;
+}
+#Main-heading {
+    background: fixed;
+    background-color: rgb(250, 247, 247);
+    margin-bottom: 20px;
+    padding: 20px;
+    color: rgb(9, 224, 171);
+    font-size: 15px;
+    
+}
+
+.Main-heading {
+    margin-bottom: 10px;
+    font-style: italic;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.links {
+    text-transform: capitalize;
+    text-decoration: none;
+    margin-right: 10px;
+    color: rgb(9, 224, 171);
+}
+
+.links:hover {
+text-decoration: underline;
+color: rgb(45, 128, 100);
+}
+.Heading {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-weight: 700;
+    color: rgb(9, 224, 171);
+}
+
+.Basic-language {
+    text-transform: capitalize;
+    font-weight: 700;
+    margin: 35px auto;
+    position: relative;
+    background: fixed;
+    font-size: 28px;
+    background-color: rgb(250, 247, 247);
+    color: rgb(9, 224, 171);
+}
+
+#Top {
+    position: absolute;
+    top: -15px;
+    right: -15px;
+    color: white;
+    background-color: yellow;
+    text-transform: uppercase;
+    border: 0;
+    padding: 7px;
+    width: 35px;
+    
+}
+ 
+.Span-of-the {
+    text-transform: lowercase;
+}
+.Selfie-image {
+    width: 80;
+    height: 80;
+}
+
+.Laura-span {
+    font-weight: 600;
+    font-style: italic;
+}
+
+.Code-image {
+    margin-bottom: 40px;
+    width: 560px;
+}
+.Paragraphs {
+    line-height: 25px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    
+}
+
+.Html-accronym {
+font-weight: 600;
+
+}
+#Lists {
+    line-height: 25px;
+    margin-bottom: 20px;
+    padding-inline: 35px;
+}
+
+.list-top {
+    font-weight: 700;
+}
+
+.list-bottom {
+    font-style: italic;
+}
+#posts {
+    border-top: 4px solid rgb(9, 224, 171);
+    border-bottom: 4px solid rgb(9, 224, 171);
+    border-color: rgb(9, 224, 171);
+    background-color: rgb(250, 247, 247);
+    margin-top: 40px;
+}
+.Related-posts {
+    margin-top: 40px;
+    text-transform: uppercase;
+    font-weight: 700px;
+    text-align: center;
+}
+#Image-links {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.related-div {
+padding-inline: 45px;
+}
+
+.images {
+    width: 80px;
+    height: 80px;
+}
+
+.list-tops {
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.Copyright {
+    font-style: italic;
+    margin-bottom: 30px;
+}
